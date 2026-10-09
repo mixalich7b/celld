@@ -1,0 +1,11 @@
+{
+  "name": "celld-workspace-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test index.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

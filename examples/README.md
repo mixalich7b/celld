@@ -7,6 +7,7 @@ supports, one service or API at a time:
 - `webapi/` — common Web Platform APIs
 - `static-assets/` — an asset-only website with headers and redirects
 - `counter/` — a SQLite-backed Durable Object
+- `workspace/` — versioned workspace files with per-file compare-and-swap writes
 - `vectordb/` — nearest-color search with a per-object `vec0` index
 - `d1/` — a guestbook on a D1 database
 - `r2/` — object reads, writes, and deletes on an R2 bucket
